@@ -38,15 +38,15 @@
 ## 📫 Contato
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/SEU-USUARIO" target="_blank">
+  <a href="https://www.linkedin.com/in/AdrianoBendazzoli" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://www.instagram.com/SEU_USUARIO" target="_blank">
+  <a href="https://www.instagram.com/drii1.0" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
-  <a href="mailto:SEUEMAIL@gmail.com">
+  <a href="mailto:adrianobendazzoli911@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
@@ -55,12 +55,10 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
