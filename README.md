@@ -2,7 +2,7 @@
 
 <p align="left">
 💻 Desenvolvedor Web em formação <br>
-🎓 Estudante de Desenvolvimento de Sistemas (ETEC) <br>
+🎓 Estudante de Informática para Internet (ETEC) <br>
 🚀 Apaixonado por tecnologia, programação e desenvolvimento de aplicações web <br>
 📚 Atualmente estudando React, PHP e aprimorando minhas habilidades em Back-end
 </p>
